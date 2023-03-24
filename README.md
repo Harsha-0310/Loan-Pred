@@ -1,2 +1,2 @@
-# Loan-Pred
-Colab Project
+# Loan-Prediction
+Project
